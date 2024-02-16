@@ -2,15 +2,15 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	gap: 10px;
+	gap: 8px;
 }
 
 .btn {
 	border: none;
-	background-color: #311e98;
-	padding: 10px 15px;
+	background-color: #a07575;
+	padding: 5px 10px;
 	color: white;
-	border-radius: 5px;
+	border-radius: 2px;
 	box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
 	transition: all ease-in-out 300ms;
 	cursor: pointer;

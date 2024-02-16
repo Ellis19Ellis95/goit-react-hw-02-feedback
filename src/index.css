@@ -2,9 +2,12 @@
 
 body {
   margin: 0 auto;
-  background-color: rgb(123, 206, 160);
-  font-family: 'Neue Montreal', sans-serif;
- 
+  background-color: grey;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 ul {
@@ -12,5 +15,6 @@ ul {
 }
 
 code {
-  font-family: 'Neue Montreal', sans-serif;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
 }
